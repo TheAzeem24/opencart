@@ -5,12 +5,12 @@
     <parameter name="browser" value="chrome"/>
     <parameter name="url" value="https://www.shopify.com/"/>
     <classes>
-      <class name="com.shopify.testcases.Login">
+      <class name="com.shopify.login.Login">
         <methods>
           <include name="login"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.shopify.testcases.Login -->
+      </class> <!-- com.shopify.login.Login -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
