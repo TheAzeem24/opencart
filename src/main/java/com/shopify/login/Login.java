@@ -5,9 +5,9 @@ import java.io.IOException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-import com.shopify.TestBase;
 import com.shopify.Utilities.ExcelUtility;
 import com.shopify.Utilities.Shopify_CommonMethods;
+import com.shopify.testbase.TestBase;
 
 public class Login extends TestBase {
 

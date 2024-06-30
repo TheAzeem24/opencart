@@ -20,7 +20,7 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-import com.shopify.TestBase;
+import com.shopify.testbase.TestBase;
 
 public class ExtentReport extends TestListenerAdapter {
 	public ExtentSparkReporter htmlReporter;

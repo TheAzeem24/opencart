@@ -17,7 +17,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 
-import com.shopify.TestBase;
+import com.shopify.testbase.TestBase;
 
 public class Shopify_CommonMethods extends TestBase {
 	

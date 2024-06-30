@@ -2,8 +2,8 @@ package com.shopify.login;
 
 import org.testng.annotations.Test;
 
-import com.shopify.TestBase;
 import com.shopify.Utilities.Shopify_CommonMethods;
+import com.shopify.testbase.TestBase;
 
 public class SignUp extends TestBase {
 	

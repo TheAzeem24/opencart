@@ -1,4 +1,4 @@
-package com.shopify;
+package com.shopify.testbase;
 
 import java.io.File;
 import java.io.FileInputStream;
